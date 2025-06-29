@@ -13,6 +13,11 @@
       "devDependencies": []
     },
     {
+      "name": "ffi",
+      "version": "2.1.4",
+      "dependencies": []
+    },
+    {
       "name": "flutter",
       "version": "0.0.0",
       "dependencies": [
@@ -25,13 +30,13 @@
       ]
     },
     {
-      "name": "vector_math",
-      "version": "2.1.4",
+      "name": "sky_engine",
+      "version": "0.0.0",
       "dependencies": []
     },
     {
-      "name": "sky_engine",
-      "version": "0.0.0",
+      "name": "vector_math",
+      "version": "2.1.4",
       "dependencies": []
     },
     {
@@ -54,11 +59,6 @@
     {
       "name": "characters",
       "version": "1.4.0",
-      "dependencies": []
-    },
-    {
-      "name": "ffi",
-      "version": "2.1.4",
       "dependencies": []
     }
   ],
