@@ -1,0 +1,16 @@
+name: flutter_always_on_top_linux
+description: A Flutter plugin to keep the window always on top in Linux using C and FFI.
+version: 0.1.0
+author: sle3fan
+homepage: https://github.com/sle3fan/flutter_always_on_top_linux
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  ffi: ^2.0.1
+flutter:
+  plugin:
+    platforms:
+      linux:
+        pluginClass: FlutterAlwaysOnTopLinux
