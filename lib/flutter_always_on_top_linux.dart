@@ -1,7 +1,6 @@
 library flutter_always_on_top_linux;
 
 import 'dart:ffi';
-import 'package:ffi/ffi.dart';
 import 'package:flutter/foundation.dart';
 
 final DynamicLibrary _lib = DynamicLibrary.open('libflutter_always_on_top.so');
